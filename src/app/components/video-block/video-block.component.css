@@ -12,10 +12,13 @@
     z-index: 3;
     position: relative;
     color: white;
+    font-size: 5em;
+
   
   }
   .titleBox {
     padding: 10% 10% 5%;
+
     
 
 

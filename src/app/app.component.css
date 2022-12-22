@@ -13,3 +13,17 @@
     opacity: 0.5;
     mix-blend-mode: overlay;
 }
+
+.welcomeText{
+    position: relative;
+    margin: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #e7e7e7 ;
+   
+}
+
+.carousel-Imgs{
+    margin: auto;
+    padding: 5%;
+    }
