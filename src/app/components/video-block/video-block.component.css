@@ -1,0 +1,8 @@
+.video {
+    width: 100% !important;
+    height: auto;
+    min-height: 400px;
+    overflow: hidden;
+    z-index: 0;
+
+  }
