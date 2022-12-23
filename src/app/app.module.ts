@@ -13,6 +13,7 @@ import { WelcomeTextComponent } from './components/welcome-text/welcome-text.com
 import { MapInfoComponent } from './components/map-info/map-info.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+
 @NgModule({
   declarations: [
     AppComponent,
