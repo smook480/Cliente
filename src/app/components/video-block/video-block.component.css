@@ -1,0 +1,26 @@
+.video {
+    width: 100% !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+   object-fit: cover;
+   z-index: 1;
+  }
+
+  h1{
+    z-index: 3;
+    position: relative;
+    color: white;
+    font-size: 5em;
+
+  
+  }
+  .titleBox {
+    padding: 10% 10% 5%;
+
+    
+
+
+
+  }

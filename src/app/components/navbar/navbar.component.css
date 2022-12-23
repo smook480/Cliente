@@ -1,0 +1,17 @@
+.navbar {
+    z-index: 9999;
+    position: relative;
+    background: rgba(0,0,0,.5);
+    mix-blend-mode: difference;
+  line-height: 1.3em;
+  font-size: 2em;
+  color: #fff;
+  box-shadow: .3em 0 0 #111, -.3em 0 0 #111;
+    /* position: fixed; */
+  }
+  .navbar-brand{
+    padding-left: 25%;
+  font-size: 1em;
+
+  }
+  
